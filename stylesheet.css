@@ -5,7 +5,11 @@ background-color: lightblue;
 border: 2px solid black;
 }
 p{
-	font-family: Calibri;
 	background-color: lightgreen;
+
+}
+li{
+	font-color: white;
+
 
 }
